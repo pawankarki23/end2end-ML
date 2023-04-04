@@ -25,3 +25,12 @@
     ## pull the changes from github
 
     git pull
+
+    ## install pre-requisites for a project using requirements.txt file
+        pip install -r requirements.txt # last like of requirements.txt file '-e .' will trigger setup.py file to execute and build the package for our code
+
+
+    ## adding files or changes to github
+    git add .
+    git commit -m 'message'
+    git publish -u origin main
