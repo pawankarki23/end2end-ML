@@ -1,0 +1,27 @@
+1. set up virtual environment and activate 
+
+    conda create -p venv python==3.8 -y
+    conda activate venv/
+
+
+2. GITHUB configuration, 
+
+    git init
+    git add README.md
+    git commit -m "first commit"
+
+    ### log into github
+    git config --global user.name "pawankarki23"
+    git config --global user.email "pawankarki5@gmail.com"
+
+
+
+    ### pushing the changes to the repository
+    git branch -M main
+    git remote add origin https://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@github.com/pawankarki23/end2end-ML.git
+    git push -u origin main
+
+
+    ## pull the changes from github
+
+    git pull
