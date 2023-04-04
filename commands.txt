@@ -31,6 +31,7 @@
 
 
     ## adding files or changes to github
+    git status
     git add .
     git commit -m 'message'
     git publish -u origin main
