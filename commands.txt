@@ -18,7 +18,7 @@
 
     ### pushing the changes to the repository (TOKEN: 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)
     git branch -M main
-    git remote add origin https://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@github.com/pawankarki23/end2end-ML.git
+    git remote add origin https://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@github.com/pawankarki23/end2end-ML.git
     git push -u origin main
 
 
