@@ -22,10 +22,10 @@
     git push -u origin main
     
 
-    new git hub token: 
+    new git hub token: if github token uploaded, it will be revoked!!!
     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
 
-    
+
     # for sometimes
     git remote rm origin
 
