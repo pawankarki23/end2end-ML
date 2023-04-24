@@ -20,7 +20,14 @@
     git branch -M main
     git remote add origin https://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@github.com/pawankarki23/end2end-ML.git
     git push -u origin main
+    
 
+    new git hub token: 
+    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
+
+    
+    # for sometimes
+    git remote rm origin
 
     ## pull the changes from github
 
